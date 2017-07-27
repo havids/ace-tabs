@@ -2,7 +2,7 @@
 ace模版 内容页面增加了 标签切换的模版 
 
 
-ace后台模版 增加了标签切换的也买你 index-tabs.html
+ace后台模版 增加了标签切换页面 index-tabs.html
 
 增加了 js index-tab.js
 
